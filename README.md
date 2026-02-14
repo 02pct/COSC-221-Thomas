@@ -6,4 +6,4 @@ If you want to run/open the project follow these instructions. You first downloa
 
 If you have any questions or come up with errors please let me know. 
 
-- Peyton Thomas
+Peyton Thomas
