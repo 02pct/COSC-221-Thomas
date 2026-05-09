@@ -4,6 +4,8 @@ The project file titled "test-projects" is a java project that cotains one file 
 
 If you want to run/open the project follow these instructions. You first download the file named "test-projects" in the repository. Then, make sure you save the file in a place that is accessible by the IDE/coding platorm you are running, and the device you are on. Launch the application you use to program (I use an IDE), then click on the option on your application that allows you to open any project. After that, locate the project file you downloaded, and locate the .java file by the same name through the files, the file path you should follow is \test-projects\src\main\java\p\test\projects\TestProjects.java to locate the file. After you have located the .java file, double click to launch the file and run the program.
 
+Other projects you see in the folder all can be open and ran in the same exact or very similar way. A short project description is shown in the commits in the repository. The other projects range from implementing GUI, to manipulating arrays. 
+
 If you have any questions or come up with errors please let me know. 
 
 Peyton Thomas
